@@ -38,4 +38,8 @@
 | 2 | 카펫 | [link](Programmers/코딩테스트%20고득점%20Kit/Exhaustive%20Search/Exhaustive%20Search_3) |
 
 ### Sorting Algorithm
-
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 1 | K번째수 | [link](Programmers/코딩테스트%20고득점%20Kit/Exhaustive%20Search/sorting%20Algorithm_1) |
+| 2 | 가장 큰 수 | [link](Programmers/코딩테스트%20고득점%20Kit/Exhaustive%20Search/sorting%20Algorithm_2) |
+| 2 | H-Index | [link](Programmers/코딩테스트%20고득점%20Kit/Exhaustive%20Search/sorting%20Algorithm_3) |
