@@ -87,28 +87,28 @@
 
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
-| 1 | 2016년 | |
-| 1 | 가운데 글자 가져오기 | |
-| 1 | 같은 숫자는 싫어 | |
-| 1 | 두 정수 사이의 합 | |
-| 1 | 문자열 내 마음대로 정렬하기 | |
-| 1 | 문자열 내 p와 y의 개수 | |
-| 1 | 문자열 내림차순으로 배치하기 | |
-| 1 | 문자열 다루기 기본 | |
-| 1 | 서울에서 김서방 찾기 | |
-| 1 | 소수 찾기 | |
-| 1 | 수박수박수박수박수박수? | |
-| 1 | 문자열을 정수로 바꾸기 | |
-| 1 | 시저 암호 | |
-| 1 | 악수의 합 | |
-| 1 | 이상한 문자 만들기 | |
-| 1 | 자릿수 더하기 | |
-| 1 | 자연수 뒤집어 배열로 만들기 | |
-| 1 | 정수 내림차순으로 배치하기 | |
-| 1 | 정수 제곱근 판별 | |
-| 1 | 제일 작은 수 제거하기 | |
-| 1 | 짝수와 홀수 | |
-| 1 | 최대공약수와 최소공배수 | |
+| 1 | 2016년 | [link](Programmers/LV1/2016.py) |
+| 1 | 가운데 글자 가져오기 | [link](Programmers/LV1/가운데_글자_가져오기.py) |
+| 1 | 같은 숫자는 싫어 | [link](Programmers/LV1/같은_숫자는_싫어.py) |
+| 1 | 두 정수 사이의 합 | [link](Programmers/LV1/두_정수_사이의_합.py) |
+| 1 | 문자열 내 마음대로 정렬하기 | [link](Programmers/LV1/문자열_내_마음대로_정렬하기.py) |
+| 1 | 문자열 내 p와 y의 개수 | [link](Programmers/LV1/문자열_내_p와_y의_개수 .py) |
+| 1 | 문자열 내림차순으로 배치하기 | [link](Programmers/LV1/문자열_내림차순으로_배치하기.py) |
+| 1 | 문자열 다루기 기본 | [link](Programmers/LV1/문자열_다루기_기본.py) |
+| 1 | 서울에서 김서방 찾기 | [link](Programmers/LV1/서울에서_김서방_찾기.py) |
+| 1 | 소수 찾기 | [link](Programmers/LV1/소수_찾기.py) |
+| 1 | 수박수박수박수박수박수? | [link](Programmers/LV1/.py) |
+| 1 | 문자열을 정수로 바꾸기 | [link](Programmers/LV1/2016.py) |
+| 1 | 시저 암호 | [link](Programmers/LV1/2016.py) |
+| 1 | 악수의 합 | [link](Programmers/LV1/2016.py) |
+| 1 | 이상한 문자 만들기 | [link](Programmers/LV1/2016.py) |
+| 1 | 자릿수 더하기 | [link](Programmers/LV1/2016.py) |
+| 1 | 자연수 뒤집어 배열로 만들기 | [link](Programmers/LV1/2016.py) |
+| 1 | 정수 내림차순으로 배치하기 | [link](Programmers/LV1/2016.py) |
+| 1 | 정수 제곱근 판별 | [link](Programmers/LV1/2016.py) |
+| 1 | 제일 작은 수 제거하기 | [link](Programmers/LV1/2016.py) |
+| 1 | 짝수와 홀수 | [link](Programmers/LV1/2016.py) |
+| 1 | 최대공약수와 최소공배수 | [link](Programmers/LV1/2016.py) |
 
 
 
