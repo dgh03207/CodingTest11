@@ -5,6 +5,7 @@
 1차 프로그래머스
   *solution 만 있는 경우는 본인이 답을 찾지 못한 경우.
 
+## Greedy Algorithm
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
 | 2 | 체육복 | [ link ](Programmers/Greedy%20Algorithm/Greedy_1) |
