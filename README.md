@@ -26,7 +26,7 @@
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
 | 2 | 다리를 지나는 트럭 | [link](Programmers/코딩테스트%20고득점%20Kit/StackQueue/SQ1.py) |
-| 2 | 주식가격 | [link](Programmers\코딩테스트%20고득점%20Kit\StackQueue\SQ2.py) |
+| 2 | 주식가격 | [link](/StackQueue/SQ1.py) |
 | 2 | 기능개발 | [link](Programmers\코딩테스트%20고득점%20Kit\StackQueue\SQ3.py) |
 | 2 | 프린터 | [link](Programmers\코딩테스트%20고득점%20Kit\StackQueue\SQ4.py)|
 
