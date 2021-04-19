@@ -92,7 +92,7 @@
 | 1 | 같은 숫자는 싫어 | [link](Programmers/LV1/같은_숫자는_싫어.py) |
 | 1 | 두 정수 사이의 합 | [link](Programmers/LV1/두_정수_사이의_합.py) |
 | 1 | 문자열 내 마음대로 정렬하기 | [link](Programmers/LV1/문자열_내_마음대로_정렬하기.py) |
-| 1 | 문자열 내 p와 y의 개수 | [link](Programmers/LV1/문자열_내_p와_y의_개수 .py) |
+| 1 | 문자열 내 p와 y의 개수 | [link](Programmers/LV1/문자열_내_p와_y의_개수.py) |
 | 1 | 문자열 내림차순으로 배치하기 | [link](Programmers/LV1/문자열_내림차순으로_배치하기.py) |
 | 1 | 문자열 다루기 기본 | [link](Programmers/LV1/문자열_다루기_기본.py) |
 | 1 | 서울에서 김서방 찾기 | [link](Programmers/LV1/서울에서_김서방_찾기.py) |
