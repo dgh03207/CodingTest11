@@ -14,10 +14,3 @@
 | 2 | 구명보트 | [link](Programmers\Greedy Algorithm\Greedy_4)
 | 3 | 섬 연결하기 | [link](Programmers\Greedy Algorithm\Greedy_5)
 | 3 | 단속카메라 | [link](Programmers\Greedy Algorithm\Greedy_6)
-=======
-
-
-
-| lv | 문제 | python |
-|:---|:---:|---:|  
->>>>>>> 85ec15776d6f72f27157394fb239ed56cedc9b29
