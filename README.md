@@ -1,11 +1,15 @@
+
 # CodingTest
 코딩테스트 푼 것들
 
 1차 프로그래머스
   *solution 만 있는 경우는 본인이 답을 찾지 못한 경우.
 
-|  | 문제 | python | javascript |
-| --- | :---: | :---: | :---: |
-| lv2 | 카펫 | [link](Programmers/코딩테스트%20고득점%20Kit/BF/카펫(BF%20lv2).py) |  |
-| lv2 | 카펫 | [link](Programmers/코딩테스트%20고득점%20Kit/BF/카펫(BF%20lv2).py) | [link](Programmers/코딩테스트%20고득점%20Kit/BF/카펫.js) |
-| lv2 | 숫자 야구 | [link](Programmers/코딩테스트%20고득점%20Kit/BF/숫자%20야구(lv2).py) |  |
+| Level | 문제 | python | 
+| --- | :---: | :---: |
+| 2 | 체육복 | [link](Programmers\Greedy Algorithm\Greedy_1) |
+| 2 | 조이스틱 | [link](Programmers\Greedy Algorithm\Greedy_2) |
+| 2 | 큰수만들기 | [link](Programmers\Greedy Algorithm\Greedy_3)|
+| 2 | 구명보트 | [link](Programmers\Greedy Algorithm\Greedy_4)
+| 3 | 섬 연결하기 | [link](Programmers\Greedy Algorithm\Greedy_5)
+| 3 | 단속카메라 | [link](Programmers\Greedy Algorithm\Greedy_6)
