@@ -17,8 +17,8 @@
 | :---: | :---: | :---: |
 | 1 | 완주하지 못한 선수 | [link](Programmers/Hash/Hash1_solution) |
 | 2 | 전화번호 목록 | [link](Programmers/Hash/Hash2) |
-| 2 | 위장 | [link]()|
-| 2 | 베스트앨범 | [link]() |
+| 2 | 위장 | |
+| 2 | 베스트앨범 | |
 
 ## Dynamic Algorithm
 
