@@ -8,7 +8,7 @@
 
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
-| 2 | 체육복 | [ link ](CodingTest/blob/main/Programmers/Greedy%20Algorithm/Greedy_1) |
+| 2 | 체육복 | [ link ](Programmers/Greedy%20Algorithm/Greedy_1) |
 | 2 | 조이스틱 | [link](Programmers/Greedy Algorithm/Greedy_1.py) |
 | 2 | 큰수만들기 | [link](Programmers/Greedy Algorithm/Greedy_1.py)|
 | 2 | 구명보트 | [link](Programmers\Greedy Algorithm\Greedy_4.py) |
