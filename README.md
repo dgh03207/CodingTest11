@@ -41,5 +41,5 @@
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
 | 1 | K번째수 | [link](Programmers/코딩테스트%20고득점%20Kit/Sorting%20Algorithm/sorting%20Algorithm_1) |
-| 2 | 가장 큰 수 | [link](Programmers/코딩테스트%20고득점%20Kit/Sorting%20Algorithm/sorting%20Algorithm_2) |
+| 2 | 가장 큰 수 | [link](Programmers/코딩테스트%20고득점%20Kit/Sorting%20Algorithm/sorting%20Algorithm_2_solution) |
 | 2 | H-Index | [link](Programmers/코딩테스트%20고득점%20Kit/Sorting%20Algorithm/sorting%20Algorithm_3) |
