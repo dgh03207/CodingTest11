@@ -9,8 +9,8 @@
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
 | 2 | 체육복 | [ link ](Programmers/Greedy%20Algorithm/Greedy_1) |
-| 2 | 조이스틱 | [link](Programmers/Greedy Algorithm/Greedy_1.py) |
-| 2 | 큰수만들기 | [link](Programmers/Greedy Algorithm/Greedy_1.py)|
-| 2 | 구명보트 | [link](Programmers\Greedy Algorithm\Greedy_4.py) |
-| 3 | 섬 연결하기 | [link](Programmers\Greedy Algorithm\Greedy_5.py) |
-| 3 | 단속카메라 | [link](Programmers\Greedy Algorithm\Greedy_6.py) |
+| 2 | 조이스틱 | [link](Programmers/Greedy%20Algorithm/Greedy_2) |
+| 2 | 큰수만들기 | [link](Programmers/Greedy%20Algorithm/Greedy_3)|
+| 2 | 구명보트 | [link](Programmers/Greedy%20Algorithm/Greedy_4) |
+| 3 | 섬 연결하기 | [link](Programmers/Greedy%20Algorithm/Greedy_5) |
+| 3 | 단속카메라 | [link](Programmers/Greedy%20Algorithm/Greedy_6) |
