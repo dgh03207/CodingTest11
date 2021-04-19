@@ -97,18 +97,18 @@
 | 1 | 문자열 다루기 기본 | [link](Programmers/LV1/문자열_다루기_기본.py) |
 | 1 | 서울에서 김서방 찾기 | [link](Programmers/LV1/서울에서_김서방_찾기.py) |
 | 1 | 소수 찾기 | [link](Programmers/LV1/소수_찾기.py) |
-| 1 | 수박수박수박수박수박수? | [link](Programmers/LV1/.py) |
-| 1 | 문자열을 정수로 바꾸기 | [link](Programmers/LV1/2016.py) |
-| 1 | 시저 암호 | [link](Programmers/LV1/2016.py) |
-| 1 | 악수의 합 | [link](Programmers/LV1/2016.py) |
-| 1 | 이상한 문자 만들기 | [link](Programmers/LV1/2016.py) |
-| 1 | 자릿수 더하기 | [link](Programmers/LV1/2016.py) |
-| 1 | 자연수 뒤집어 배열로 만들기 | [link](Programmers/LV1/2016.py) |
-| 1 | 정수 내림차순으로 배치하기 | [link](Programmers/LV1/2016.py) |
-| 1 | 정수 제곱근 판별 | [link](Programmers/LV1/2016.py) |
-| 1 | 제일 작은 수 제거하기 | [link](Programmers/LV1/2016.py) |
-| 1 | 짝수와 홀수 | [link](Programmers/LV1/2016.py) |
-| 1 | 최대공약수와 최소공배수 | [link](Programmers/LV1/2016.py) |
+| 1 | 수박수박수박수박수박수? | |
+| 1 | 문자열을 정수로 바꾸기 | |
+| 1 | 시저 암호 |  |
+| 1 | 악수의 합 |  |
+| 1 | 이상한 문자 만들기 | |
+| 1 | 자릿수 더하기 |  |
+| 1 | 자연수 뒤집어 배열로 만들기 |  |
+| 1 | 정수 내림차순으로 배치하기 |  |
+| 1 | 정수 제곱근 판별 |  |
+| 1 | 제일 작은 수 제거하기 |  |
+| 1 | 짝수와 홀수 |  |
+| 1 | 최대공약수와 최소공배수 |  |
 
 
 
