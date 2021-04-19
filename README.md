@@ -2,9 +2,6 @@
 # CodingTest
 코딩테스트 푼 것들
 
-1차 프로그래머스
-  *solution 만 있는 경우는 본인이 답을 찾지 못한 경우.
-
 ## Greedy Algorithm
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
@@ -14,4 +11,18 @@
 | 2 | 구명보트 | [link](Programmers/Greedy%20Algorithm/Greedy_4) |
 | 3 | 섬 연결하기 | [link](Programmers/Greedy%20Algorithm/Greedy_5) |
 | 3 | 단속카메라 | [link](Programmers/Greedy%20Algorithm/Greedy_6) |
+
+## Hash
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 1 | 완주하지 못한 선수 | [link](Programmers/Hash/Hash1_solution) |
+| 2 | 전화번호 목록 | [link](Programmers/Hash/Hash2) |
+| 2 | 위장 | [link]()|
+| 2 | 베스트앨범 | [link]() |
+
+## Dynamic Algorithm
+
+## Exhaustive Search
+
+## Sorting Algorithm
 
