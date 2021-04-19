@@ -31,6 +31,11 @@
 | 2 | 프린터 | [link](Programmers/코딩테스트%20고득점%20Kit/StackQueue/SQ4.py)|
 
 ### Exhaustive Search
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 1 | 모의고사 | [link](Programmers/코딩테스트%20고득점%20Kit/Exhaustive%20Search/Exhaustive%20Search_1) |
+| 2 | 소수 찾기 | [link](Programmers/코딩테스트%20고득점%20Kit/Exhaustive%20Search/Exhaustive%20Search_2) |
+| 2 | 카펫 | [link](Programmers/코딩테스트%20고득점%20Kit/Exhaustive%20Search/Exhaustive%20Search_3) |
 
 ### Sorting Algorithm
 
