@@ -5,7 +5,6 @@
 ## 코딩테스트 고득점 Kit
 
 ### Greedy Algorithm
->>>>>>> 08aa0c9 (commit on 'main')
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
 | 2 | 체육복 | [ link ](Programmers/Greedy%20Algorithm/Greedy_1) |
@@ -16,7 +15,6 @@
 | 3 | 단속카메라 | [link](Programmers/Greedy%20Algorithm/Greedy_6) |
 
 ### Hash
->>>>>>> 08aa0c9 (commit on 'main')
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
 | 1 | 완주하지 못한 선수 | [link](Programmers/Hash/Hash1_solution) |
