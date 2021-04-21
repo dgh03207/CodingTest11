@@ -98,9 +98,9 @@
 | 1 | 서울에서 김서방 찾기 | [link](Programmers/LV1/서울에서_김서방_찾기.py) |
 | 1 | 소수 찾기 | [link](Programmers/LV1/소수_찾기.py) |
 | 1 | 수박수박수박수박수박수? | [link](Programmers/LV1/수박수박수박수박수박수.py) |
-| 1 | 문자열을 정수로 바꾸기 | [link](Programmers\LV1\문자열을_정수로_바꾸기.py) |
-| 1 | 시저 암호 | [link](Programmers\LV1\시저_암호.py) |
-| 1 | 악수의 합 | [link](Programmers\LV1\약수의_합.py) |
+| 1 | 문자열을 정수로 바꾸기 | [link](Programmers/LV1/문자열을_정수로_바꾸기.py) |
+| 1 | 시저 암호 | [link](Programmers/LV1/시저_암호.py) |
+| 1 | 악수의 합 | [link](Programmers/LV1/약수의_합.py) |
 | 1 | 이상한 문자 만들기 | |
 | 1 | 자릿수 더하기 |  |
 | 1 | 자연수 뒤집어 배열로 만들기 |  |
