@@ -1,0 +1,3 @@
+#programmers
+#2019 KAKAO BLIND RECRUITMENT_실패율
+

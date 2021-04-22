@@ -2,6 +2,21 @@
 # CodingTest
 코딩테스트 푼 것들
 
+
+## 월간 코드 챌린지 시즌 1
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 1 | 두 개 뽑아서 더하기 | [link](Programmers/월간_코드_챌린지_시즌1/두_개_뽑아서_더하기.py) |
+| 1 | 3진법 뒤집기 | [link](Programmers/월간_코드_챌린지_시즌1/3진법_뒤집기.py) |
+| 1 | 내적 | [link](Programmers/월간_코드_챌린지_시즌1/내적.py) |
+
+
+## 월간 코드 챌린지 시즌 2
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 1 | 음양 더하기 | [link](Programmers/월간_코드_챌린지_시즌2/음양_더하기.py) |
+
+
 ## 2019 카카오 개발자 겨울 인턴십
 
 | Level | 문제 | python | 
@@ -15,7 +30,13 @@
 ## 2021 KAKAO BLIND RECRUITMENT
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
-| 1 | 신규 아이디 추천 | [link]() |
+| 1 | 신규 아이디 추천 | [link](Programmers/2021_KAKAO_BLIND_RECRUITMENT/신규_아이디_추천.py) |
+
+
+## 2019 KAKAO BLIND RECRUITMENT
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 1 | 실패율 | [link](Programmers/2019_KAKAO_BLIND_RECRUITMENT/실패율.py) |
 
 
 ## 코딩테스트 고득점 Kit
