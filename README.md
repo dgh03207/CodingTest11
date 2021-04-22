@@ -12,6 +12,12 @@
 | 3 | 징검다리 건너기 | |
 
 
+## 2021 KAKAO BLIND RECRUITMENT
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 1 | 신규 아이디 추천 | [link]() |
+
+
 ## 코딩테스트 고득점 Kit
 
 ### Hash
