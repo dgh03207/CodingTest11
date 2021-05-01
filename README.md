@@ -165,7 +165,11 @@
 | 1 | 제일 작은 수 제거하기 | [link](Programmers/LV1/제일_작은_수_제거하기.py) |
 | 1 | 짝수와 홀수 | [link](Programmers/LV1/짝수와_홀수.py) |
 | 1 | 최대공약수와 최소공배수 | [link](Programmers/LV1/최대공약수와_최소공배수.py) |
-
-
-
+| 1 | 콜라츠 추측 | [link](Programmers/LV1/콜라츠_추측.py) |
+| 1 | 평균 구하기 | [link](Programmers/LV1/평균_구하기.py) |
+| 1 | 하샤드 수 | [link](Programmers/LV1/하샤드_수.py) |
+| 1 | 핸드폰 번호 가리기 | [link](Programmers/LV1/핸드폰_번호_가리기.py) |
+| 1 | 행렬의 덧셈 | [link](Programmers/LV1/행렬의_덧셈.py) |
+| 1 | x만큼 간격이 있는 n개의 숫자 | [link](Programmers/LV1/x만큼_간격이_있는_n개의_숫자.py) |
+| 1 | 직사각형 별찍기 | [link](Programmers/LV1/직사각형_별찍기.py) |
 
