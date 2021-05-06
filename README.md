@@ -24,18 +24,21 @@
 
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
-| 1 | 키패드 누르기 | [link](Programmers/2020_카카오_인턴십/키패드_누르기.py) |
-
+| 1 | 크레인 인형뽑기 | [link](Programmers/2019_카카오_개발자_겨울_인턴십/크레인_인형뽑기_게임.py) |
 
 
 ## 2020 카카오 인턴십
 
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
-| 1 | 크레인 인형뽑기 | [link](Programmers/2019_카카오_개발자_겨울_인턴십/크레인_인형뽑기_게임.py) |
+| 1 | 키패드 누르기 | [link](Programmers/2020_카카오_인턴십/키패드_누르기.py) |
+| 1 | 키패드 누르기 | [link](Programmers/2020_카카오_인턴십/키패드_누르기.py) |
 
 
-
+## 2018 KAKAO BLIND RECRUITMENT
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 1 | 신규 아이디 추천 | |
 
 ## 2021 KAKAO BLIND RECRUITMENT
 | Level | 문제 | python | 
