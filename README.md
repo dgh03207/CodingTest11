@@ -32,13 +32,12 @@
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
 | 1 | 키패드 누르기 | [link](Programmers/2020_카카오_인턴십/키패드_누르기.py) |
-| 1 | 키패드 누르기 | [link](Programmers/2020_카카오_인턴십/키패드_누르기.py) |
-
 
 ## 2018 KAKAO BLIND RECRUITMENT
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
-| 1 | 신규 아이디 추천 | |
+| 1 | 비밀지도 | [link](Programmers/2018_KAKAO_BLIND_RECRUITMENT/비밀지도.py) |
+| 1 | 다트_게임 | [link](Programmers/2018_KAKAO_BLIND_RECRUITMENT/다트_게임.py) |
 
 ## 2021 KAKAO BLIND RECRUITMENT
 | Level | 문제 | python | 
