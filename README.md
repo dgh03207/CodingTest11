@@ -44,7 +44,7 @@
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
 | 1 | 실패율 | [link](Programmers/2019_KAKAO_BLIND_RECRUITMENT/실패율.py) |
-| 1 | 오픈채팅방 | [link](Programmers/2019_KAKAO_BLIND_RECRUITMENT/오픈채팅방.py) |
+| 2 | 오픈채팅방 | [link](Programmers/2019_KAKAO_BLIND_RECRUITMENT/오픈채팅방.py) |
 
 ## 2018 KAKAO BLIND RECRUITMENT
 | Level | 문제 | python | 
