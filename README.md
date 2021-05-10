@@ -40,6 +40,12 @@
 | 1 | 신규 아이디 추천 | [link](Programmers/2021_KAKAO_BLIND_RECRUITMENT/신규_아이디_추천.py) |
 
 
+## 2020 KAKAO BLIND RECRUITMENT
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 1 | 신규 아이디 추천 | [link](Programmers/2020_KAKAO_BLIND_RECRUITMENT/문자열_압축.py) |
+
+
 ## 2019 KAKAO BLIND RECRUITMENT
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
@@ -142,7 +148,13 @@
 | 5 |  | |
 
 
-## 2018
+### LV2
+
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 2 | 124 나라의 숫자 | [link](Programmers/LV2/124_나라의_숫자.py) |
+
+
 ### LV1
 
 | Level | 문제 | python | 
