@@ -61,6 +61,10 @@
 | 1 | 비밀지도 | [link](Programmers/2018_KAKAO_BLIND_RECRUITMENT/비밀지도.py) |
 | 1 | 다트_게임 | [link](Programmers/2018_KAKAO_BLIND_RECRUITMENT/다트_게임.py) |
 
+## Summer/Winter_Coding(2019)
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 2 | 멀쩡한 사각형 | [link](Programmers/SummerWinter_Coding(2019)/멀쩡한_사각형.py) |
 
 ## Summer/Winter_Coding(~2018)
 | Level | 문제 | python | 
