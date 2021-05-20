@@ -46,8 +46,8 @@
 ## 2020 KAKAO BLIND RECRUITMENT
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
-| 1 | 신규 아이디 추천 | [link](Programmers/2020_KAKAO_BLIND_RECRUITMENT/문자열_압축.py) |
-
+| 2 | 문자열 압축 | [link](Programmers/2020_KAKAO_BLIND_RECRUITMENT/문자열_압축.py) |
+| 2 | 괄호변환 | [link](Programmers/2020_KAKAO_BLIND_RECRUITMENT/괄호변환.py) |
 
 ## 2019 KAKAO BLIND RECRUITMENT
 | Level | 문제 | python | 
