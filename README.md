@@ -41,6 +41,7 @@
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
 | 1 | 신규 아이디 추천 | [link](Programmers/2021_KAKAO_BLIND_RECRUITMENT/신규_아이디_추천.py) |
+| 2 | 메뉴_리뉴얼 | [link](Programmers/2021_KAKAO_BLIND_RECRUITMENT/메뉴_리뉴얼.py) |
 
 
 ## 2020 KAKAO BLIND RECRUITMENT
@@ -74,6 +75,11 @@
 | 2 | 배달 |  |
 | 2 | 스킬트리 | [link](Programmers/SummerWinter_Coding(~2018)/스킬트리.py) |
 | 2 | 방문 길이 | [link](Programmers/SummerWinter_Coding(~2018)/방문_길이.py) |
+
+## 2017 팁스다운
+| Level | 문제 | python | 
+| :---: | :---: | :---: |
+| 2 | 짝지어 제거하기 | [link](Programmers/2017_팁스다운/짝지어_제거하기.py) |
 
 ## 코딩테스트 고득점 Kit
 
