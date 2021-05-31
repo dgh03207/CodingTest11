@@ -8,31 +8,26 @@ from collections import deque
 
 def solution(maps):
     
-    d = [[1,0],[0,1],[-1,0],[0,-1]] 
-    visited = [[-1 for _ in range(len(maps))] for _ in range(len(maps[0]))]
-
-    if maps[-1][-2] == 0 and maps[-2][-1] == 0:
-        return -1
-    else:
+    d = [[1,0],[-1,0],[0,1],[0,-1]]
+    
+    visited = [[-1 for _ in range(len(maps[0]))] for _ in range(len(maps))]
+    
+    x,y = 0,0
+    queue = deque()
+    queue.append([y,x])
+    visited[y][x] = 1
+    
+    while queue:
+        y,x= queue.popleft()
         
-        x,y = 0,0
-        queue = deque()
-        queue.append([x,y])
-        visited[x][y] = 1
-
-        while queue:
+        for n in range(4):
+            yi = y+d[n][0]
+            xi = x+d[n][1]
             
-            x,y = queue.popleft()
-            for n in range(4):
-                
-                xi = x+ d[n][0]
-                yi = y+ d[n][1]
-                
-                if -1<xi<len(maps[0]) and -1<yi<len(maps):
-                    if maps[xi][yi] == 1 and visited[xi][yi] == -1:
-                        queue.append([xi,yi])
-                        visited[xi][yi] = visited[x][y]+1
-
-        return visited[-1][-1]
-                        
-                        
+            if -1<yi<len(maps) and -1<xi<len(maps[0]):
+                if maps[yi][xi] == 1 and visited[yi][xi] == -1:
+                    visited[yi][xi] = visited[y][x] +1
+                    queue.append([yi,xi])
+                    
+    
+    return visited[-1][-1]
