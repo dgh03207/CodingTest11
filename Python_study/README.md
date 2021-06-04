@@ -3,7 +3,7 @@
 
 
 | Date | Problem | Concept |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | 5/20 | [수식 최대화](Programmers/2020_카카오_인턴십/수식_최대화.py) | [정규 표현식](#regular-expression) |
 
 
@@ -46,4 +46,20 @@
 | + | 최소 1번 이상 반복 | ca+t 면 ct는 매치하지 않음|
 | ({m,n}?) | 반복 횟수 m부터 n까지(m또는 n 생략가능) | {2,3} == 2부터 3까지 반복횟수 매치 |
 | ? | 있어도 매칭, 없어도 매칭 | ca?t == ct도 매칭 cat도 매칭 |
+
+
+#### re.compile()
+
+
+#### 문자열 검색
+
+
+p = re.compile([a-z]+)
+
+| 개념 | 설명 | 기타 |
+| :---: | :---: | :---: |
+| match() | 문자열이 처음부터 정규식과 매치되는지 조사 | p.match('python') => python이 매칭됨 |
+| search() | 문자열 전체를 검색해서 매치되는지 조사 | p.search('3python') 3을 제외한  python만 매칭 |
+| findall() | 매치되는 모든 문자열(substring)을 리스트로 돌려준다 | p.findall('life is too short') == ['life','is','too','short'] |
+| finditer() | 매치되는 모든 문자열을 반복 가능한 객체로 돌려준다. | for문사용 가능한 객체로 돌려줌 |
 
