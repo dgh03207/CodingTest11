@@ -35,6 +35,7 @@
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
 | 1 | 키패드 누르기 | [link](Programmers/2020_카카오_인턴십/키패드_누르기.py) |
+| 2 | 수식 최대화 | [link](Programmers/2020_카카오_인턴십/수식_최대화.py) |
 
 
 ## 2021 KAKAO BLIND RECRUITMENT
