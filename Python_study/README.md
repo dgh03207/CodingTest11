@@ -1,14 +1,14 @@
 
 # Python_study for codingtest
-
+    This is python concept that i found while studying coding test
 
 | Date | Problem | Concept |
 | :---: | :---: | :---: |
-| 5/20 | [수식 최대화](Programmers/2020_카카오_인턴십/수식_최대화.py) | [정규 표현식](#regular-expression) |
+| 5/20 | [수식 최대화](Programmers/2020_카카오_인턴십/수식_최대화.py) | [정규 표현식](# regular-expression) |
 
 
 
-#regular-expression
+# regular-expression
 
 출처 : [학습 링크]('https://wikidocs.net/4308')
 
@@ -26,7 +26,7 @@
 | .(Dot) | 줄바꿈 문자인 '\n'을 제외한 모든 문자와 매치 | [a.b] == a와 b사이에 어떤 문자가 오면 매치(빈칸x) |
 
 
-#### 자주 사용하는 문자 클래스
+#### <자주 사용하는 문자 클래스>
 
 | 개념 | 설명 | 
 | :---: | :---: |
@@ -38,7 +38,7 @@
 | \W | 숫자+문자가 아닌 것과 매치 |
 
 
-#### 반복
+#### <반복>
 
 | 개념 | 설명 | 기타 |
 | :---: | :---: | :---: |
@@ -48,11 +48,9 @@
 | ? | 있어도 매칭, 없어도 매칭 | ca?t == ct도 매칭 cat도 매칭 |
 
 
-#### re.compile()
+### re.compile()
 
-
-#### 문자열 검색
-
+#### <문자열 검색>
 
 p = re.compile([a-z]+)
 
@@ -63,3 +61,12 @@ p = re.compile([a-z]+)
 | findall() | 매치되는 모든 문자열(substring)을 리스트로 돌려준다 | p.findall('life is too short') == ['life','is','too','short'] |
 | finditer() | 매치되는 모든 문자열을 반복 가능한 객체로 돌려준다. | for문사용 가능한 객체로 돌려줌 |
 
+
+#### <메타문자>
+
+| 개념 | 설명 | 기타 |
+| :---: | :---: | :---: |
+| | | or과 동일한 의미 | ca*t 면 ct도 매치함 |
+| ^ | 문자열의 맨 처음과 일치함 | re.MULTILINE 사용시, 여러 줄의 문자열의 각 줄에 적용 가능 |
+| $ | ^ 메타 문자와 반대의 경우 | $는 문자열의 끝과 매치함 |
+|  |
