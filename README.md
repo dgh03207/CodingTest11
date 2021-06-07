@@ -62,6 +62,8 @@
 | :---: | :---: | :---: |
 | 1 | 비밀지도 | [link](Programmers/2018_KAKAO_BLIND_RECRUITMENT/비밀지도.py) |
 | 1 | 다트_게임 | [link](Programmers/2018_KAKAO_BLIND_RECRUITMENT/다트_게임.py) |
+| 2 | 뉴스 클러스터링 | [link](Programmers/2018_KAKAO_BLIND_RECRUITMENT/뉴스_클러스터링.py) |
+
 
 ## Summer/Winter_Coding(2019)
 | Level | 문제 | python | 
