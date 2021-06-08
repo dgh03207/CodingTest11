@@ -1,7 +1,7 @@
 #programmers
 #2021 KAKAO BLIND RECRUITMENT_신규 아이디 추천
 
- def solution(new_id):
+def solution(new_id):
     
     answer = ""
     

@@ -1,3 +1,8 @@
+#programmers
+#2021 KAKAO BLIND RECRUITMENT_순위 검색
+#실패코드_효율성 실패
+
+
 import re
 
 def solution(info, query):
