@@ -14,7 +14,7 @@
 # Baekjoon 
 | Level | 문제 | java | python |
 | :---: | :---: | :---: | :---: |
-| bronze 2 | 11720 | [link](Baekjoon/1010.java) |[link](Baekjoon/1010.py)|
+| bronze 2 | 11720 | [link](Baekjoon/11720.java) |[link](Baekjoon/11720.py)|
 | bronze 2 | 10809 | [link](Baekjoon/10809.java) ||
 | bronze 2 | 2675 | [link](Baekjoon/2675.java) ||
 | silver 5 | 1010 | [link](Baekjoon/1010.java) ||
