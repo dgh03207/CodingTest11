@@ -1,6 +1,6 @@
 
 # Programmers_코딩테스트 풀이
-  *사용 언어 : python
+  *사용 언어 : python\n
   *난이도 : lv1-lv2
 
   
