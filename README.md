@@ -1,8 +1,20 @@
 
-# CodingTest
-코딩테스트 푼 것들
+# Programmers_코딩테스트 풀이
+  *사용 언어 : python
+  *난이도 : lv1-lv2
+  [Programmers로 이동](#프로그래머스)
+  
+# Baekjoon _ 코딩테스트 풀이
+  *사용 언어 : java
+  *난이도 : bronze-silver
+  [Baekjoon 이동](#백준)
 
 
+
+
+
+
+#프로그래머스
 ## 월간 코드 챌린지 시즌 1
 | Level | 문제 | python | 
 | :---: | :---: | :---: |
@@ -205,4 +217,7 @@
 | 1 | 행렬의 덧셈 | [link](Programmers/LV1/행렬의_덧셈.py) |
 | 1 | x만큼 간격이 있는 n개의 숫자 | [link](Programmers/LV1/x만큼_간격이_있는_n개의_숫자.py) |
 | 1 | 직사각형 별찍기 | [link](Programmers/LV1/직사각형_별찍기.py) |
+
+
+#백준
 
