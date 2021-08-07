@@ -16,9 +16,11 @@ public class B1158 {
     	for (int i = 1; i <= N; i++) {
 			arr.add(i);
 		}
+    	
     	int i = 0;
     	K=K-1;
     	System.out.print("<");
+    	
     	while(arr.size() > 0) {
     		i = (i+K)%arr.size();
     		if (arr.size()==1) 
