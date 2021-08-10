@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 11720 {
+public class B11720 {
     public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int size = Integer.parseInt(sc.nextLine());

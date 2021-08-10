@@ -1,4 +1,3 @@
-package Algo_04_0805;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
