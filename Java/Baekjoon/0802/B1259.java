@@ -1,4 +1,4 @@
-package algo_0801;
+package Algo_0802;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
