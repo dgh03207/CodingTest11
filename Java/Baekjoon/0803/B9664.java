@@ -1,7 +1,7 @@
 package Algo_0803;
 
 import java.util.Scanner;
-
+//N-Queen
 public class B9664 {
 
 	static int N,cnt;
