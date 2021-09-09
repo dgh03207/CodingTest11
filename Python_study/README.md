@@ -1,7 +1,4 @@
 
-# Python_study for codingtest
-    This is python concept that i found while studying coding test
-
 | Date | Problem | Concept |
 | :---: | :---: | :---: |
 | 5/20 | [수식 최대화](Programmers/2020_카카오_인턴십/수식_최대화.py) | [정규 표현식](# regular-expression) |
